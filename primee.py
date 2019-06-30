@@ -1,7 +1,7 @@
-no=int(input())
-if no>1:
-  for i in range(2,no):
-    if(no%i)==0:
+num8=int(input())
+if num8>1:
+  for i in range(2,num8):
+    if(num8%i)==0:
       print("no")
       break
     else:
